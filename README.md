@@ -4,6 +4,9 @@ Leveraged unsupervised machine learning techniques to perform customer segmentat
 <h2>Dataset</h2>
 https://archive.ics.uci.edu/dataset/502/online+retail+ii
 
+<h2>Model Used</h2>
+- K-Means Clustering
+
 <h2>Requirements</h2>
 - Python 3<br>
 - Google colab or Jupyter Notebook<br>
@@ -12,4 +15,3 @@ https://archive.ics.uci.edu/dataset/502/online+retail+ii
 - Matplotlib<br>
 - Seaborn<br>
 - Sklearn<br>
-- tpot<br>
